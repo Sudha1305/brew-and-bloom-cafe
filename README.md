@@ -1,22 +1,20 @@
-# Brew & Bloom Café
+# Brew & Bloom Café ?
 
-Official café website.
+A modern and responsive café website.
+
+## Live Website
+
+[Open Brew & Bloom Café](https://brew-and-bloom-cafe-mauve.vercel.app/)
 
 ## Features
 - Café menu and gallery
 - Reservation inquiry form
 - Email notifications
-- Responsive website
+- Responsive design
+
+## GitHub Repository
+
+[View Project on GitHub](https://github.com/Sudha1305/brew-and-bloom-cafe)
 
 ## Hosting
 Vercel
-
-## Repository
-https://github.com/Sudha1305/brew-and-bloom-cafe
-
-## Live Website
-
-Visit the live Brew & Bloom Café website:
-
-**[Open Brew & Bloom Café](https://brew-and-bloom-cafe-mauve.vercel.app)**
-
