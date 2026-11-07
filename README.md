@@ -1,10 +1,10 @@
-# Brew & Bloom Café ?
+# Brew & Bloom Cafe
 
-A modern and responsive café website.
+A modern and responsive cafe website.
 
 ## Live Website
 
-[Open Brew & Bloom Café](https://brew-and-bloom-cafe-mauve.vercel.app/)
+[Open Brew & Bloom Cafe](https://brew-and-bloom-cafe-mauve.vercel.app/)
 
 ## Features
 - Café menu and gallery
